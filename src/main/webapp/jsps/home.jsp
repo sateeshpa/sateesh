@@ -20,7 +20,7 @@
 		Babu Technologies, 
 		Kothapet, Near ICICI Bank, Beside fruit market,
 		Hyderabad,
-		+91-89819085185
+		+91-8919085185
 		devopstrainingblr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Babu Technologies</a>
